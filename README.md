@@ -1,5 +1,8 @@
 # Sales Analysis Dashboard
 
+![image](https://github.com/ActuallyKushagra/SalesAnalysisDashboardOne/assets/80890207/a59b199f-f462-49a9-96c7-ce4c7128e0fc)
+
+
 • Made a dashboard on Power BI.
 
 • Made a bar chart showcasing Total Sales by ProductLine.
